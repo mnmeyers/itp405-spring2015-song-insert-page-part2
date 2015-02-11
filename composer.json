@@ -1,0 +1,14 @@
+{
+	"require": {
+		"symfony/http-foundation": "~2.6"
+	},
+	"autoload": {
+		"files": [],
+		"classMap": [
+
+		],
+		"psr-4": { 
+			"Itp\\": "App/Itp" 
+		}
+	}
+}
